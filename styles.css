@@ -88,6 +88,7 @@
     color: #FFFFFF;
     margin: 0;
     padding: 0;
+    cursor: pointer;
 }
 
 .menu__soc-icons {
@@ -105,6 +106,7 @@
     width: 100%;
     height: 100%;
     transition: transform .3s linear;
+    cursor: pointer;
 }
 
 .menu__icon:hover {
